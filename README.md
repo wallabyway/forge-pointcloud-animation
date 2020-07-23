@@ -1,6 +1,7 @@
 # forge-pointcloud-animation
 animation point-clouds for simulation data
 
+this demo shows how to update the position and color each point, per frame, used for simulation demo.
 
 DEMO:  https://wallabyway.github.io/forge-pointcloud-animation/
 
